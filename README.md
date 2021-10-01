@@ -1,4 +1,4 @@
-# Analyze-Tinder
+# analyze-tinder
 
 Go here to get download your Tinder data: https://account.gotinder.com/
 
