@@ -10,5 +10,5 @@ Put your tinder data (name it data.json) in the same directory as analyze_tinder
 
 # Demo
 
-<img src='https://i.imgur.com/v9ZcOJf.png' width='500' alt='Demo'/>
+<img src='https://i.imgur.com/v9ZcOJf.png' width='300' alt='Demo'/>
 <img src='https://i.imgur.com/gyf1JPa.png' width='600' alt='Demo'/>
